@@ -25,7 +25,7 @@
 ## Пример работы
 
 <p align="center">
-      <img src="https://i.ibb.co/3r1TjM4/229037-temp.jpg" alt="Project Logo" width="400">
+      <img src="https://i.ibb.co/3r1TjM4/229037-temp.jpg" alt="Project Logo" width="500">
 </p>
 
 1. Откройте скрипт в своем предпочтительном текстовом редакторе или IDE.
